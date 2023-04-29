@@ -1,0 +1,4 @@
+name = "future_asset_designer"
+uuid = "80a098b5-0593-4e20-b3f0-6a6336d6a244"
+authors = ["matsumoto <65050759+matsumoto616@users.noreply.github.com>"]
+version = "0.1.0"
